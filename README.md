@@ -10,7 +10,7 @@ This module expands PTR2e weapon and worn gear previews in the Compendium Browse
 
 Paste this manifest URL into Foundry's **Install Module** dialog:
 
-`https://raw.githubusercontent.com/Umbura/ptr2e-gear-description-expansion/main/module.json`
+`https://raw.githubusercontent.com/iago-aragao/ptr2e-gear-description-expansion/main/module.json`
 
 ## Features
 
